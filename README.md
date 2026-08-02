@@ -1,6 +1,8 @@
 # stardance-cardboard-fan
 A fan made with everyday household items such as cardboard and alunimum foil, (Except the motor).
 
+### Demo Video: https://www.youtube.com/shorts/hPXkDbkn4BU
+
 ### AI Usage declaration:
 None
 
