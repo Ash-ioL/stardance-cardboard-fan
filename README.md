@@ -1,4 +1,4 @@
-# stardance-cardboard-fan
+# My Cardboard Fan (DIY Stardance Project)
 A fan made with everyday household items such as cardboard and alunimum foil, (Except the motor).
 
 ### Demo Video: https://www.youtube.com/shorts/hPXkDbkn4BU
