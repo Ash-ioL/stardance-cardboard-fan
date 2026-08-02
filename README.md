@@ -25,4 +25,4 @@ None
 5. Use the switch how you want to to control the fan
 
 ## Credits
-I just made this with what I could come up with in my head with stuff I had.
+Honestly I didn't use anything else other than me, my brain, and stuff in my house.
